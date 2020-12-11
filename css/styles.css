@@ -32,6 +32,10 @@ h2.w3-block-title {
   margin: 5px 0 !important;
 }
 
+/* Set the page with to 80 percent */
+.w3-width-80-percent {
+  max-width: 80%!important;
+}
 /* Override the font of the body text */
 body {
   font-family:Helvetica, Arial, sans-serif;
