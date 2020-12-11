@@ -34,7 +34,7 @@ h2.w3-block-title {
 
 /* Override the font of the body text */
 body {
-  font-family: Georgia, serif;
+  font-family:Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.2;
 }
@@ -48,5 +48,5 @@ h5,
 h6 {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 400;
-  margin: 10px 0;
+  margin: 5px 0 !important;
 }
